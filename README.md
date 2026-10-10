@@ -1,8 +1,8 @@
 # CHI3242-Assignment-1
 
-In this programme, the following text will be analysed with collocations:
+In this corpus, the following text will be analysed with collocations:
 
-Corpus title: 呼兰河传
+Novel title: 呼兰河传
 
 Author: 萧红
 
